@@ -1,4 +1,30 @@
-## 📁 파일 구조
+# Architecture
+
+## 1. 시스템 구조도
+
+코스밋은 **Client / Server 분리 구조**를 기반으로 동작합니다.
+
+```text
+[ Client Application ]
+        |
+        |  API Communication
+        |
+[ Server Application ]
+        |
+        |  Data Access
+        |
+[ Database ]
+```
+
+## 2. 파일 구조
+
+**역할과 책임을 기준으로 디렉토리를 분리**하여 UI, 상태 관리, 비즈니스 로직이 서로 독립적으로 유지되도록 구성했습니다.
+
+이 구조는 다음 원칙을 기반으로 합니다.
+
+- 화면(UI)과 비즈니스 로직의 명확한 분리
+- 상태 관리 로직의 책임 범위 구분
+- 재사용 가능한 컴포넌트 중심 설계
 
 ```text
 src/
@@ -61,3 +87,7 @@ src/
     </tr>
   </tbody>
 </table>
+
+---
+
+> 🏡 [README](../README.md)<br>[⬅️ Core Features](core-features.md)<br> [➡️ Roadmap](roadmap.md)
