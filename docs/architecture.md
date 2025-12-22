@@ -1,3 +1,22 @@
+## 📁 파일 구조
+
+```text
+src/
+ ├─ apis        # 서버 API 요청 정의
+ ├─ auths       # 인증/인가 관련 로직
+ ├─ components  # 재사용 가능한 UI 컴포넌트
+ ├─ constants   # 공통 상수 및 설정 값
+ ├─ contexts    # React Context 기반 전역 상태
+ ├─ hooks       # 커스텀 훅
+ ├─ navigators  # 화면 이동 및 네비게이션 설정
+ ├─ pages       # 화면 단위 컴포넌트
+ ├─ queries     # 데이터 조회 및 캐싱 로직
+ ├─ services    # 비즈니스 로직 계층
+ ├─ stores      # 전역 상태 관리
+ ├─ utils       # 공통 유틸리티 함수
+ └─ App.js      # 애플리케이션 진입점
+```
+
 ## ⚙️ 기술 스택
 
 <table>

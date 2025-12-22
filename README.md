@@ -9,14 +9,12 @@ CouseMeet은 사용자의 실제 운동 경로를 기록하고
 
 ## 📄 문서
 
-👉 **프로젝트 상세 문서:**
+👉 **프로젝트 상세 문서**
 
-| 문서          | 링크                              |
-| ------------- | --------------------------------- |
-| overview      | [바로가기](docs/overview.md)      |
-| architecture  | [바로가기](docs/architecture.md)  |
-| core-features | [바로가기](docs/core-features.md) |
-| roadmap       | [바로가기](docs/roadmap.md)       |
+- [overview](docs/overview.md)<br>
+- [architecture](docs/architecture.md)<br>
+- [core-features](docs/core-features.md)<br>
+- [roadmap](docs/roadmap.md)<br>
 
 ## 코드 공개 정책
 
