@@ -6,7 +6,8 @@
 
 CourseMeet은 사용자의 실제 운동 경로를 기록하고  
 이를 ‘코스’ 단위로 공유할 수 있는 위치 기반 운동 서비스입니다.  
-[앱 다운로드 바로가기](https://github.com/hikers-dev/coursemeet-docs/releases/)
+[apk파일 다운로드](https://github.com/hikers-dev/coursemeet-docs/releases/) /
+[구글 플레이 스토어](https://play.google.com/store/apps/details?id=com.hikers.coursemeet)
 
 ## 📄 문서
 
