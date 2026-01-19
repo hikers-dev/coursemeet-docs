@@ -25,6 +25,7 @@ CourseMeet은 사용자의 실제 운동 경로를 기록하고
 - [architecture](docs/architecture.md)<br>
 - [core-features](docs/core-features.md)<br>
 - [roadmap](docs/roadmap.md)<br>
+- [코스밋.pdf](https://github.com/hikers-dev/coursemeet-docs/blob/main/docs/%E1%84%8F%E1%85%A9%E1%84%89%E1%85%B3%E1%84%86%E1%85%B5%E1%86%BA.pdf)
 
 ## 코드 공개 정책
 
